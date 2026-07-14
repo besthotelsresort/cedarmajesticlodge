@@ -1,0 +1,26 @@
+{
+  "name": "Cedar Majestic Lodge",
+  "short_name": "Cedar",
+  "description": "Cedar Majestic Lodge: Casino, cuisine and coastline — one address",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#b87333",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
