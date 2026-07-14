@@ -1,0 +1,2 @@
+# cedarmajesticlodge
+Static site: cedarmajesticlodge
